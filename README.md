@@ -6,14 +6,14 @@ Developed multiple dashboards that are saving the time and effort or reading the
 
 # Mastered language
 
-1. ![Language](python.png)
-2. ![Language](sql.png)
-3. ![Language](r.png)
+[Language](python.png)
+![Language](sql.png)
+![Language](r.png)
 
 # Tools
 
-1. ![Excel](excel.svg)
-2. ![PowerBI](pb.jpg)
+![Excel](excel.svg)
+![PowerBI](pb.jpg)
 <!--
 **LuckyWa3957T/LuckyWa3957T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
