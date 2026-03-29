@@ -7,7 +7,7 @@ Developed multiple dashboards that are saving the time and effort or reading the
 # Mastered language
 
 ![Language](python.png)
-![Language](mysql.png)
+![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)
 ![Language](r.png)
 
 # Tools
