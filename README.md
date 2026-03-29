@@ -8,7 +8,7 @@ Developed multiple dashboards that are saving the time and effort or reading the
 # Mastered language
 
 ![Python](python.png)
-![MySQL](mysql.png)
+![MySQL](mysqll.png)
 ![R](r.png)
 
 # Tools
