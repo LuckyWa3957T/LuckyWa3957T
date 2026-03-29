@@ -8,12 +8,14 @@ Developed multiple dashboards that are saving the time and effort or reading the
 
 ![Python](python.png)
 ![MySQL](sqll.png)
-![R](r.png)
+![Java](java.png)
+![C++](C-.png)
 
 # Tools
 
 ![Excel](excel.svg)
 ![PowerBI](pb.svg)
+![Logo](logo.png)
 <!--
 **LuckyWa3957T/LuckyWa3957T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
