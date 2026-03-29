@@ -7,7 +7,7 @@ Developed multiple dashboards that are saving the time and effort or reading the
 # Mastered language
 
 ![Language](python.png)
-![MySQL](https://raw.githubusercontent.com/username/repo/main/mysql.png)
+![Language](images/mySQL.png)
 ![Language](r.png)
 
 # Tools
