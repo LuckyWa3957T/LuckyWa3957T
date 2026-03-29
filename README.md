@@ -5,10 +5,11 @@ A Data Analyst
 Developed multiple dashboards that are saving the time and effort or reading the data in the raw form. 
 
 # Mastered language
+# Mastered language
 
-![Language](python.png)
+![Python](python.png)
 ![MySQL](mySOL.png)
-![Language](r.png)
+![R](r.png)
 
 # Tools
 
