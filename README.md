@@ -16,6 +16,7 @@ Developed multiple dashboards that are saving the time and effort or reading the
 ![Excel](excel.svg)
 ![PowerBI](pb.svg)
 ![Logo](logos.png)
+![Logo](mysqlworkbench.png)
 <!--
 **LuckyWa3957T/LuckyWa3957T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
