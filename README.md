@@ -9,7 +9,6 @@ Developed multiple dashboards that are saving the time and effort or reading the
 ![Python](python.png)
 ![MySQL](sqll.png)
 ![Java](javac.png)
-![C++](cpp.png)
 
 # Tools
 
